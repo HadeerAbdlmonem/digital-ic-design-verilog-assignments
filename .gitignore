@@ -1,0 +1,27 @@
+# ModelSim / QuestaSim simulation artifacts
+work/
+transcript
+vsim.wlf
+*.wlf
+modelsim.ini
+
+# Siemens Questa lint/verify cache and logs
+.qverify/
+qcache/
+*.qdb
+*.qpg
+*.qtl
+lint.db
+lint.rpt
+lint_run.log
+lint_settings.rpt
+lint_status_history.rpt
+ideErrorInfo.log
+
+# Python cache (from any helper scripts)
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
