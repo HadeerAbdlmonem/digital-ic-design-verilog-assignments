@@ -2,7 +2,7 @@
 
 # 🔌 Digital IC Design — Assignments
 
-### SystemVerilog / Verilog coursework, cleaned up and simulation-ready
+### SystemVerilog / Verilog coursework
 
 ![Verilog](https://img.shields.io/badge/Language-Verilog-1f425f?logo=v&logoColor=white&color=4B8BBE)
 ![Simulator](https://img.shields.io/badge/Simulator-ModelSim%20%2F%20QuestaSim-orange)
@@ -21,7 +21,7 @@ combinational logic, structural and behavioral arithmetic circuits,
 sequential elements (flip-flops, latches), counters, a small ALU, and a
 Moore FSM — finishing with a parameterized single-port memory.
 
-Every design was cleaned up for version control:
+Every design :
 
 - ✅ Consistent 2-space indentation and signal alignment
 - ✅ Professional, descriptive signal and module names
@@ -68,6 +68,6 @@ all signals to the wave window, and runs to completion.
 
 <div align="center">
 
-📚 *Digital IC Design coursework — cleaned, commented, and ready to explore.*
+📚 *Digital IC Design coursework .*
 
 </div>
